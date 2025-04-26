@@ -38,3 +38,14 @@ Measures the average volume of each clip and saves the results to a JSON file.
 Builds a new video edit that curves from quiet to loud and back to quiet, using the intensity analysis.
 
 ---
+
+## Output examples
+
+Some examples of outputs of this program can be found in my website:
+https://antoniodenuevo.com/project/supercuts
+
+<img width="927" alt="site-screenshot" src="https://github.com/user-attachments/assets/5737f478-acbc-4794-aae0-6ef3959bb189" />
+
+
+
+https://antoniodenuevo.com/wp-content/uploads/2025/04/nina_curve_supercut.mp4
