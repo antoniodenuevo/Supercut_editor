@@ -45,6 +45,8 @@ Some examples of outputs of this program can be found in my website:
 https://antoniodenuevo.com/project/supercuts
 
 
+
+
 ![site-supercut](https://github.com/user-attachments/assets/e5473781-6468-4609-baed-d76f121f5ba5)
 
 
