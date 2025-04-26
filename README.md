@@ -46,6 +46,7 @@ https://antoniodenuevo.com/project/supercuts
 
 <img width="927" alt="site-screenshot" src="https://github.com/user-attachments/assets/5737f478-acbc-4794-aae0-6ef3959bb189" />
 
+[https://antoniodenuevo.com/wp-content/uploads/2025/04/nina_curve_supercut.mp4]
+Nina Simone supercut
 
-[Watch the video]([https://yourdomain.com/path/to/video.mp4](https://antoniodenuevo.com/wp-content/uploads/2025/04/nina_curve_supercut.mp4)
 
