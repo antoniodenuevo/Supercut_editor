@@ -44,8 +44,8 @@ Builds a new video edit that curves from quiet to loud and back to quiet, using 
 Some examples of outputs of this program can be found in my website:
 https://antoniodenuevo.com/project/supercuts
 
-<img width="927" alt="site-screenshot" src="https://github.com/user-attachments/assets/5737f478-acbc-4794-aae0-6ef3959bb189" />
 
+![site-supercut](https://github.com/user-attachments/assets/e5473781-6468-4609-baed-d76f121f5ba5)
 
 
 
